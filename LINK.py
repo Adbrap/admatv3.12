@@ -49,9 +49,8 @@ start_1month = str(pd.Timestamp.today() + pd.DateOffset(-240))[0:10]
 
 #----- initialistion de l'API key et ticker -----#
 api_key = '1KsqKOh1pTAJyWZx6Qm9pvnaNcpKVh_8'
-ticker = 'X:LINKUSD'
-tiker_live = 'LINK/USD'
-proxies = {'http': 'http://coziduzl:2s1ntu8m2qyw@198.46.246.159:6783'}
+ticker = 'LINK'
+tiker_live = 'LINK'
 #----- initialistion de l'API key et ticker -----#
 
 #----- fonction pour trouver les point intersection de la ligne de coup et de la Courbe -----#
@@ -73,28 +72,28 @@ def line_intersection(line1, line2):
 #----- fonction pour trouver les point intersection de la ligne de coup et de la Courbe -----#
 
 
-def Finder_IETE(time1,time_name1,start1,time2,time_name2,start2):
+def Finder_IETE(time1,time_name1,start1):
         global proxies
         while True:
 
                 with my_lock:
 
-                        api_url_livePrice = f'http://api.polygon.io/v1/last/crypto/{tiker_live}?apiKey={api_key}'
-                        data = requests.get(api_url_livePrice, proxies=proxies).json()
+                        api_url_livePrice = f'http://api.polygon.io/v2/last/trade/{tiker_live}?apiKey={api_key}'
+                        data = requests.get(api_url_livePrice).json()
                         df_livePrice = pd.DataFrame(data)
 
                         #api_url_OHLC = f'http://api.polygon.io/v2/aggs/ticker/{ticker}/range/15/minute/2022-07-01/2022-07-15?adjusted=true&sort=asc&limit=30000&apiKey={api_key}'
                         api_url_OHLC = f'http://api.polygon.io/v2/aggs/ticker/{ticker}/range/{time1}/{time_name1}/{start1}/{end}?adjusted=true&limit=50000&apiKey={api_key}'
 
 
-                        data = requests.get(api_url_OHLC, proxies=proxies).json()
+                        data = requests.get(api_url_OHLC).json()
                         df = pd.DataFrame(data['results'])
                         la_place_de_p = 0
 
                         for k in range(0,len(df_livePrice.index)):
-                        	if df_livePrice.index[k] == 'price':
+                        	if df_livePrice.index[k] == 'p':
                         		la_place_de_p = k
-                        livePrice = df_livePrice['last'][la_place_de_p]
+                        livePrice = df_livePrice['results'][la_place_de_p]
                 dernligne=len(df['c'])-1
                 df.drop([dernligne], axis=0, inplace=True)
 
@@ -370,7 +369,7 @@ def Finder_IETE(time1,time_name1,start1,time2,time_name2,start2):
                                 data_G_ = pd.DataFrame(data_E, columns=['G'])
                                 df_IETE = pd.concat([data_A_, data_B_, data_C_, data_D_, data_E_, data_F_, data_G_], axis=1)
                 print('----------------------------------------------------------------------', flush=True)
-                #time.sleep(0.5)
+                time.sleep(0.5)
 
 
 
@@ -379,30 +378,40 @@ minute = "minute"
 heure = "hour"
 jour = "day"
 
-#th1 = Process(target=Finder_IETE, args=(1,minute,start_15m,30,minute,start_30m))
-th2 = Process(target=Finder_IETE, args=(5,minute,start_15m,30,minute,start_30m))
-th3 = Process(target=Finder_IETE, args=(15,minute,start_15m,1,heure,start_1h))
-th4 = Process(target=Finder_IETE, args=(30,minute,start_30m,1,heure,start_1h))
-th5 = Process(target=Finder_IETE, args=(1,heure,start_1h,6,heure,start_6h))
-#th5 = Process(target=Finder_IETE, args=(4,heure,start_4h,1,jour,start_1d))
-th6 = Process(target=Finder_IETE, args=(6,heure,start_6h,1,jour,start_1d))
-th7 = Process(target=Finder_IETE, args=(1,jour,start_1d,3,jour,start_1d))
+th1 = Process(target=Finder_IETE, args=(15,minute,start_15m))
+th2 = Process(target=Finder_IETE, args=(30,minute,start_30m))
+th3 = Process(target=Finder_IETE, args=(45,minute,start_30m))
+th4 = Process(target=Finder_IETE, args=(1,heure,start_1h))
+th5 = Process(target=Finder_IETE, args=(2,heure,start_1h))
+th6 = Process(target=Finder_IETE, args=(4,heure,start_1h))
+th7 = Process(target=Finder_IETE, args=(6,heure,start_6h))
+th8 = Process(target=Finder_IETE, args=(10,heure,start_6h))
+th9 = Process(target=Finder_IETE, args=(12,heure,start_6h))
+th10 = Process(target=Finder_IETE, args=(1,jour,start_1d))
 
-#th1.start()
+th1.start()
 th2.start()
 th3.start()
 th4.start()
-#th5.start()
+th5.start()
 th6.start()
 th7.start()
+th8.start()
+th9.start()
+th10.start()
 
-#th1.join()
+
+th1.join()
 th2.join()
 th3.join()
 th4.join()
-#th5.join()
+th5.join()
 th6.join()
 th7.join()
+th8.join()
+th9.join()
+th10.join()
+
 
 
 
