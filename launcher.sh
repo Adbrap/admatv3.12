@@ -16,16780 +16,7942 @@ echo "                                             ░     "
 
 
 
+while :
+do
 
+  python3 /home/ubuntu/Desktop/admatv3.8/A.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AACG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AACI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AACIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AACIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AADI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AATC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AAWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABBV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ABVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACBAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACEVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACEVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACGLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACGLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACHV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACKIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACKIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACONW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACQRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACQRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACRS.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ACRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACTDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACTDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ACXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADALW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADERW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADNWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADOCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADOCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADSEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADTHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADVWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ADXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEAE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEAEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEHAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AENZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEPPZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AERC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AERI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AESC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AESE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEYE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AEZS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFGD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFMD.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/AFMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AFYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGBAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGBAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGGRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGGRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGILW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGMH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGNCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGNCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGNCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGNCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGRIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AGYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHPAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHPAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHRNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIKI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AINC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AINV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIRTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AIZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AJG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AJRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AJX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AJXA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AKYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALB.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ALB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALFIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALJJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALORU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALORW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALPAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALSAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALTUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALXO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ALZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMAOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMCIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMEH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPY.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/AMPY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMSWA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AMZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANDE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANGHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANIK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANZU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANZUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ANZUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOGOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AORT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AOUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APCXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/API.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APMIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APMIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APPF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APPHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APTMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APTMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APWC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APXIU.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/APXIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APXIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/APYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AQUA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARBKL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AREB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AREBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AREC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AREN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARIZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARIZR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARIZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARKO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARKOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AROC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARQQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARQQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARQT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARRWU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARRWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARYD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ARYE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASCAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASCBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ASM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASRV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASTSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ASZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATCOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATHE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATLC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATLCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATLCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATNFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATNM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATVCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ATY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUBAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AURA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AURC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AURCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUTO.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/AUTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUUD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUUDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUVIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AUY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVCTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVGOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVHIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVPTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVXL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AVYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AWX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AYLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AYRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AYTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZUL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/AZZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/B.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BABA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BACA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BALL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BALY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAMH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BANC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAND.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/BAND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BANF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BANFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BANR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BANX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BARK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BASE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BATL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BATRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BATRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBLGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBUC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCSAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCTXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BCYC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BDXB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BECN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEEMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BELFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BELFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BENE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BENER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BENEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BERY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BEST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/BFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFRIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BFZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGFV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGRYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHFAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHFAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHFAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHFAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHFAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHSEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHSEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BHVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIGZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BILI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BILL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BITE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BITF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BIVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BJDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BJRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKEPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKSY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BKYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BL.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/BL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLDE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLDEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLEUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLEUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLEUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLKB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLNGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLNGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLNKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLTSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLTSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLUA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BLZE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMEZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNGOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNIXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNIXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNNRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNNRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOCNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BODY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOKF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BORR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOTJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOXD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BOXL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPACW.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/BPACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPOPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPYPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPYPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPYPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BPYPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRDG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BREZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BREZR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BREZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRFH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRIVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRIVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRKH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRKHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRKL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BROG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BROGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BROS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRPMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRPMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRQS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BRZE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSGAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSGAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSKY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSKYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSKYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BSY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTBDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTU.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/BTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTWNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTWNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BUD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BUI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BURL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BUSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BVXV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWBBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BWXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BXSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYNOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BYTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BZFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BZFDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BZH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/BZUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/C.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CABA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CABO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CACI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CADE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CADL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CALA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CALB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CALM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CALT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CALX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CANF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CANG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CANO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CARV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CASA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CASH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CASI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CASI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CASS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CASY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CATC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CATO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CATY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBFV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBOE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBRGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBRGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CBZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCAIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCBG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCNEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CCZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDZI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CDZIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEADW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CECE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CELC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CELH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CELU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CELUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CELZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CENX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEQP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CERE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CERS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CERT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CETX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CETXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CEVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFFEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFIVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFIVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFVIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CFVIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGABL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CGTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHEAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHEF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHEKZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHKEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHKEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHKEZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHKP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHSCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHSCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHSCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHSCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHSCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHUY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHWA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHWAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHWY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIDM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CIDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIFRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIIGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CINC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CINF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CING.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CINGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CINT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CION.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CISO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CITE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CITEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CIZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CJJD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CKPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CKX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLAYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLBTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLINR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLINU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLINW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLNNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLOE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLOER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLVRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CLXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCL.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMPOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMRAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNEY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNGLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNGLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNOBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNVY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CNXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CODA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CODI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CODX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COHN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COMSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COMSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CONN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CONX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CONXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CONXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COO.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/COO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COOLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COOLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CORR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CORS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CORT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CORZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CORZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COVAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COVAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/COWNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPARU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPARW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPTNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPUH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CPZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CQP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRDF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CREC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRECU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRECW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CREG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRESW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRESY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CREX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CREXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRKN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CROX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRTDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRTX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRWS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRXTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRZNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CRZNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSIQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSLMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSSEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSSEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSWC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTKB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTXRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CTXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CULL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CULP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CURI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CURO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CURV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CUZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVLY.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/CVLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CYXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CZNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CZOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CZR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/CZWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/D.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DADA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DALN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DALS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAOOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAOOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DARE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DASH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DATS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DATSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAVEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DAWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBGIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCFCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCGOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCOMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCRDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DCTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/DDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DECAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DECK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DELL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DENN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DERM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DESP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DFFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DFH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGICA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGICB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHBCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHBCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHCAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHCNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHCNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHHCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHHCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DICE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DILA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DILAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DILAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DINO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DISA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DISAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DISAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DISH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DJCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DKDCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DKDCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DKL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DKNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLCAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMS.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/DMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DMYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DNZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOGZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DORM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOUG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DOYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPCSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPCSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DPZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRAYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRAYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRCTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRMAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRTSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRUG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DRVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSEY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTOCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTOCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTRTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTSTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUETU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUKB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUNE.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/DUNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUNEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUNEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DUOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DVAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DWAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DWACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DWACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DWIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DWSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DXYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DYAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DYFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DYNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/DZSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/E.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EACPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EACPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EARN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EBTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ECVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDBLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDTXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDTXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EDUC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EEFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EEIQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFSCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFTRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EFX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/EFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGGF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EHTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EICA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EIGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EJH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EKSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELYM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ELYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMBKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMLDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMLDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENCPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENERR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENERU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENERW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENJY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENJYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENLC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENSV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENVX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ENVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ENZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOSEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPHYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPHYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EPZM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQRXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EQX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERESU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERESW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERIE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ERYP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESGRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESGRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESSCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESSCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ESTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETSY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETV.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ETV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETWO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ETY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EUCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EUCRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EURN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVBG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVGOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVLVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVOJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVOJW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EWBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EWCZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EWTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EXTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EYE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EYEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EYES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EYESW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EYPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EZFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EZGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/EZPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/F.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FACA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FACT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FANG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FANH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FARM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FARO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FATPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBIOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBIZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBK.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/FBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FBRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCNCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCNCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCNCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCUV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FELE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FENC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FENG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FERG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEXD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEXDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FEXDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFIE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFIEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FFWM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGBIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGFPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGIWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FGMCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHLTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FHTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FICO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FICV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FICVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FICVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FINW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FISI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FISV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FITB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FITBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FITBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FITBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIVE.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/FIVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FIZZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FKWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLUX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLWS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FLYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMIVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMIVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNKO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNLC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNVTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNVTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNWB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FNWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FONR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FORTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOSLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOUNU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOUNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOXA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOXF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FOXWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRBNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FREE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FREEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FREQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FREY.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/FREY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRGAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRLAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRMEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FROG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRONU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRONW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRSGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRWAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FRXB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSRDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSRXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSRXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSSIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSSIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FSV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTAIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTCVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTCVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTPAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTVIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FTVIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FULC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FULT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FULTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FURY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FUV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FVAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FVCB.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/FVCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FVIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FVRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWONA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWONK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FWRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FXCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FXCOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FXCOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FXLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FXNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/FYBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/G.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GABC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GACQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GACQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAINN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAINZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GALT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GANX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GASS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GATE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GATEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GATEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GATO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GATX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBNH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBRGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBRGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCMGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDDY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDNRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDNRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDSTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDSTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GDYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GECC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GECCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GECCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GECCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEEXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEEXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GENC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GENE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GENI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GENQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GENQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEOS.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/GEOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GERN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GEVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFAIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFGDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFGDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGGV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGGVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GGZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHIXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHIXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIIXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIIXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GILD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GILT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIPRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GIWWU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GJO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GJP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GJR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GJS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GJT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GKOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLBZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLDG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLEEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLEEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLHAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLHAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLLIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLSI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/GLSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLSPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLSPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLSPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GLYC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMBLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMBLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMBLZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMFIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GMVD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOEVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOODN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOODO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOOGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GORO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GOVXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPCOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPJA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRABW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRCYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GREE.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/GREE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GREEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRNAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRNQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GROM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GROMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GROY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRVY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRWG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSEVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSEVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSMGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSQB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSQD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSRMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSRMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GSV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTPBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTXAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GTYH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GUG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GURE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GVCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GVCIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GVCIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GVP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GXII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GXIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GXO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/GYRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/H.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAIAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HALL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HALO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAPP.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/HAPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HARP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HASI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HAYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBANM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBANP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCARW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCDIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCDIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCDIZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCICU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCICW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCMAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCNEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCNEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCVIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCVIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCWB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HCXY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HDSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HELE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HERA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HERAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HERAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HESM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HEXO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HFBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HFFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HFRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HFWA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HGBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HGLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HGTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HGV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HHGCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HHGCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HHLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIHO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIIIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HILS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HITI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HIX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/HIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLAHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLBZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLBZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMCOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMCOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNNAZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOFV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOFVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HONE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HORI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOVNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HOWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPKEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPLTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPLTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HQH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HQI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HQL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HQY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HROWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HRZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HSY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HT.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/HT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTIBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTLFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTOOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HTZWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUBG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUIZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUMAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HURC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HURN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HUYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HVBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWCPZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWELW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWKN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWKZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HWM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HXL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYMCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYMCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYMCZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HYZNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HZNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HZO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/HZON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IART.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IAUX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICMB.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/ICMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICUI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ICVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IDYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IEAWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IESC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGNYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IGTAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IHTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/III.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IINN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IINNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IIVIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IKNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ILMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ILPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMBIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMKTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMNM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMPPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMTX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/IMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMTXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMUX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IMXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INBKZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ING.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INKAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INKAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INNV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INUV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INVZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/INZY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IONM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IONQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IONS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IOVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPAXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPVF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPVIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IPWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQMDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQMDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IQV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IR.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/IR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IREN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IROQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IRWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISLEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISPOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ISUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITHXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITQRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITQRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITUB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ITW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVCPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IVZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IXAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IXHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/IZEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/J.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JACK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAKK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JANX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAQCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAQCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JATT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JAZZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCICU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCICW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JCTCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JEF.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/JEF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JELD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JEMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JEQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JGGCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JGGCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JHAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JILL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JJSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JKHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JMACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JMACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JMIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JMSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JNCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JNJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JNPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOFF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOFFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOFFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JOUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JRSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JRVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JSPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JSPRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JUGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JUGGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JUPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JUPWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JWEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JWSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JYNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/JZXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/K.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KACLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KACLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAIIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAIRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KALA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KALU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KALV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KARO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KAVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KBAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KBNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KBNTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KCGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KDNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KELYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KELYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEQU.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/KEQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KERN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KERNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KEYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KFFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KFRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIIIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KINS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KINZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KINZU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KINZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KIRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KKRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KLXE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KODK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KORE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KOSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KPLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KPLTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KPRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KPTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KREF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRNLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRNLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KROS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KRYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSICU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTN.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/KTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KTTAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KUKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KULR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KURA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KVHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KVSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KVSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KWAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KXIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KYCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KYCHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KYCHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KYMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KZIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/KZR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/L.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LABP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LADR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LANC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LANDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LANDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LARK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LASR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LATGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAXXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAZR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LAZY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBBBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBBBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBRDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBRDK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBRDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBTYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBTYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LBTYK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCAHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCFYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDHAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDHAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LECO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEGAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEGAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEJU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LESL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LEXXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFAC.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/LFAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFLYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFMDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFTRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFTRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LFVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGHLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGSTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGSTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGTOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGTOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGVCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LGVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LHAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LHCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LHDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIBYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LICY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIDRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LILA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LILAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LILM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LILMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LINC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LINK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIONU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIONW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIQT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LITB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LITE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LITM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LITT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LITTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIVBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIXTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LIZI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LJAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LJAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LJAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LJPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LKCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LKFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LKQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LLAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMACA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMAOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMDXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMPX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/LMPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LODE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOKM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOTZW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LQDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LQDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LRCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LRFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LRMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSEAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSPRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSXMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LSXMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTCHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LTRYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LULU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUXA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUXAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LUXAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVOXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVRAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVRAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LVTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LWAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LWLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LXEH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LXFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LXRX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/LXRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LYV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/LZB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/M.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MACA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MACAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MACAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MACK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MANH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MANT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MANU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAPSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAQCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAQCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MARA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MARK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MARPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MASI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MASS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MATW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MATX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MAYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBINN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBINO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBINP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBNKP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBTCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MBWM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCHP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDC.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/MDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDGSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDJH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDLZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDRRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDXG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MDXH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MELI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MEOH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MERC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MESA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MESO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/METC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/METCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/METX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/METXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MFV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MGYR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MHUA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MICT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MILE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MILEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MINDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MINM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIST.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/MIST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MITT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MIY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKTWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MKTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLAIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLKN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MLVF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MMYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNDY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNKD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNSBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MNTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOBQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOBQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MODD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MODN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MODV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOHO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MONCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MONCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MORF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MORN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MOXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPAA.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/MPAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPACR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPRAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MQT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MQY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MREO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MRVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSDAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MSVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTBCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTEKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTRYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTRYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUC.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/MUC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUDSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MULN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MURF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MURFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MUX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVSTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MWA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MXCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MXE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MXF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MXL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYNZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYPSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYSZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/MYTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NABL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NARI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NATH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NATI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NATR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NAZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBRV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBSTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBSTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBXG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCLH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NCZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDLS.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/NDLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NDSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NECB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NERV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NESR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NETC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NETI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEWP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEWTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEWTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEXA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NEXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NFYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NGVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHICW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NHWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NICE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NICK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NILE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NINE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NISN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NJR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NKX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLITU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLITW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLSPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/NMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMMCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNAVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NODK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOVVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPABW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NPV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NQP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRDY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NREF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRGV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRSNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRUC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRXPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NRZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NSYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTNX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/NTNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTRBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTRSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUBIU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NURO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUWE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NUZE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVACR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVSAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVVEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NWSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXGLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NXTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NYXH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/NZF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/O.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBLG.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/OBLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBSV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCAXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCCIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCCIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCFCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCUL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ODC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ODFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ODP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OEPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OEPWU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OEPWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OESX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OHAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OHPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OHPAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OHPAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OIIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OKTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OKYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLITU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLITW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OLPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OMQS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONBPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONBPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONYXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ONYXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OOMA.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/OOMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPINL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OPY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORGNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORIAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORRF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ORTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSTRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSTRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTECU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTECW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTMOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTRKP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OTTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OUST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OUT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OVBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OVID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OVLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OWLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXBRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXLCZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXSQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXSQG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXSQL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXSQZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXUSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXUSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OXY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OYST.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/OYST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OZK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/OZKAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PACXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAFOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PALI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PALT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PANA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PANL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PANW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAQCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAQCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PARA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PARAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PARAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PARR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PASG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PATH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PATI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PATK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAVMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PAYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBAXU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PBYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCCTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCTTU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCTTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCVX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCXCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCXCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCYG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PCYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDEX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/PDEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PDT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEARW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEBO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PECO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEGRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEGRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PENN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEPLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PEPLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PERI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PESI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PETQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PETS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PETV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PETVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PETZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFDRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFDRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFIE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFTAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFTAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFXNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PFXNZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGRWU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGRWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PGZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHICU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHICW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHT.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/PHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHUNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PHYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PICC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PINC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PINE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PING.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PINS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PIXY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PJT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKOH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PKX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLAOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLMIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLUG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PLYM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMGMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMVP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNFPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PODD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PONO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PONOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POR.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/POR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PORT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/POWWP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPHPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPHPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPHPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PPYAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRDO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRENW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRLH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PROC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PROCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PROF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PROV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRSRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRSRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PRVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSAGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSAGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PSX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTCT.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/PTCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTICU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTICW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTMN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTOCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUBM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUCKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUCKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PULM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PUYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PVBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWPPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWUPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PWUPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PXD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PXLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PXSAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PXSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PYXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PZC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PZG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/PZZA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QCOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QCRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QDEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QFIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QFTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QIPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QLGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QLYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QMCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QNGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QNRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QNST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QQQX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QRHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QRTEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QRTEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QRTEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QRVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QSIAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTEKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QTWO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QUAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QUBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QUIK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QUMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QUOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QURE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QVCC.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/QVCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/QVCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/R.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RACB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RACE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RACY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RACYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RACYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RADA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RADI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAMMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAMMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RANI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RARE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RAVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBCAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBKB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RBOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCHGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCHGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCKY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCLFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCLFW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCRTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RCUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDBXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RDY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REEAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RELI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RELIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RELL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RELX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RELY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RENEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RENN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RENO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RENT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REPX.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/REPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RERE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RETA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RETO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REVHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REXR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/REZI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFACR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RGTIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RHE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RHP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RICK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIDE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RILYZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RIVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RJAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RJF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RKDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RKLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RKLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RKTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RLYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMBL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMGCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMGCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMT.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/RMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RMTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNAZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNERW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNWWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RNXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROCLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROIVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROLL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROLLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RONI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROSEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ROVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPHM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RPTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RQI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RRBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RRGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSKD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RSVRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RTLPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RTLPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RTLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RUBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RUSHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RUSHB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RUTH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVPHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVSNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RWAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RWLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RWOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RWODU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXRAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXRAW.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/RXRAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYAAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RYTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RZA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RZB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/RZLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/S.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SABR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SABRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SABS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SABSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SACH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAITW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SALM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAMAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SANA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SANBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SANG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SANM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SANW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SASI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SASR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SATL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SATLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SATS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SAVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBFMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBNYP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SBUX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCHN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCLE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCLEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCLEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCMAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCRMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCRMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCUA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCWX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SCYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDHY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SDPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEATW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SECO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEDG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SELB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SELF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SENEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SENEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SENS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SERA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SESN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SEVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGHL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGHLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGHLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGML.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SGU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHBI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SHBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHCRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHQA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHQAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHQAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHUAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHUAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SHYF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIERU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIERW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIFY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIGIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SILC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SILK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SILV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SINT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIOX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SISI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SITC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SITE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SITM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIVB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIVBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJIJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SJW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKLZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SKYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLAMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLAMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLCRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLDPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLGC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLGCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLHGP.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SLHGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLMBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLNH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLNHP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLQT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SLVRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMAPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMAPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMED.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMFR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMFRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMID.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMIH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMIHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMIHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMMF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SMWB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNCRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNDL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNFCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNRHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNRHW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SNY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOFO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOHO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOHOB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOHON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOHOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOHU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOJC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOJD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOJE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOL.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOLOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SONY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOUNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SOVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPCMU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPCMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPKB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPKBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPKBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPTKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPWH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SPXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQFT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQFTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQFTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQLLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SQZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRAD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SREA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SREV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRLP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRSAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRZN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SRZNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSBI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SSBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSKN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSSSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SSYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STEP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STKL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STNG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STOK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STSSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STTK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STXS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/STZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUPV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SURF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SURG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SURGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SUZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVFA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVFAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVFAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVFB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVNAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SVVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWAG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWAGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWBI.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/SWBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWCH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWETU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWETW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWKH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWSS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWSSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWSSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWVL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWVLW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SWZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SXC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SXTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYNH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYTAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SYY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SZC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SZZL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/SZZLU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/T.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TACT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TALK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TALKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TALO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TALS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TANH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TANNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TANNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TANNZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAOP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TARA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TARO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TARS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TASK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TATT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TAYD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBCPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBCPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBKCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBLTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TBSAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCON.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/TCON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCRR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDCX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TDY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEAF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TECH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TECK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TECTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEKK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEKKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TELA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TELL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TELZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TENB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TENX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TERN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TESS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETCU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETEU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TETEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEVA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFFP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFSL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TFX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGAAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TGVCW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THCAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THCPU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THCPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THFF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/THWWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TILE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TINV.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/TINV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIOAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TISI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TITN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TIXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TJX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TKAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TKC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TKLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TKNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLGYU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLGYW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLRY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TLYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMCI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMCWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMDX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMKR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMKRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TMX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNDM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNGX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNXP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TNYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOIIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TOWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPGY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPVG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TPZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TREE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TREX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRKAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRMR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRN.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/TRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRONU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRONW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TROO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TROW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TROX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRUE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRVG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRVN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSBK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSHA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSIB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSIBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSIBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSLX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSPQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TSVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTGT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TTWO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TUEM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TUFN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TUP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TURN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TUSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TUYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TVC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TVTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWCBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWKS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWLV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWLVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWLVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWND.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWNI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TWTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TXG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TXMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TXN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TXRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TYG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TYL.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/TYL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TYME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TYRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TZOO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TZPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TZPSU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/TZPSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/U.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UAMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UAN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UAVS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBFO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBOH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UCBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UCBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UCL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UCTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UDMY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UEIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UFAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UFCS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UFPI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UFPT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UGIC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UGP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UGRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UHAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UHT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UIHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UIS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UKOMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ULBI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ULCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ULH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ULTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UMBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UMH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UMPQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNAM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNCY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNFI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNTY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UNVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UONE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UONEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPTD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPTDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPTDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UPWK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/URBN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/URG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/URGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/URI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UROY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USAK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USAS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USCT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USCTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USEG.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/USEG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USPH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USWS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USWSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/USX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTAA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTAAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTAAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UTZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UUUU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UVSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UWMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UXIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UZD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UZE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/UZF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/V.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VABK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VACC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VALE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VALN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VALU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VAPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VAQC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VATE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VAXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBNK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VBTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCIF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCKA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCKAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCNX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCSA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCXA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCXAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCXAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCXB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VCYT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VECO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VECT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEEE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VELO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VELOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VENA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VENAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VENAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VERY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VFF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VFL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VGFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VGI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VGM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VGZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VHAQ.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/VHAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VHC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VHI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VHNAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIASP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VICI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VICR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIEWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIGL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIIAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VINC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VINE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VINO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VINP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIOT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIPS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIRC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIRI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VISL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VITL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIVK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VIVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VJET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VKI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VKQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VKTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLATW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLDR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLDRW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLGEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLYPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VLYPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMCAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMCAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMEO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMGA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMGAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMGAW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VMW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNCE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNDA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VNTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VOC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VOD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VORB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VORBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VOXX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VOYA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VPCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VPV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VQS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VREX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRMEW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRNA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRPX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRRM.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/VRRM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRSK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRSN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRTV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSCO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSTA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VSTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTAQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTAQR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTAQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTIQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTIQU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTIQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTOL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTRS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTRU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTSI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTVT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VTYX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VUZI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVPR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VVV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VWE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VWEWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VXRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VYGG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VYGR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VYNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VYNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VZIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/VZLA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/W.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WABC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAFD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAFDP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAFU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WALD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WALDU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WALDW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WARR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WASH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WATT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAVD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WAVSW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WBX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WCC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WCN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WDAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WDC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WDFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WDH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WDI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEAV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEBR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEJO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEJOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WELL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WERN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WES.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WETF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WEYS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WF.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/WF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WFCF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WFG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WFRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WGO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHLM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHLR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHLRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHLRL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHLRP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WILC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIMI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WINA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WING.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WINT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WINVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WINVU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WINVW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WISA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WISH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WIX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WKEY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WKHS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WKME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WKSP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WKSPW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLDN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLKP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WLYB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMPN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WMT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WNC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WNEB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WNNR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WNS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WNW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WOLF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WOOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WORX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPCA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPCB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WPRT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRBY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRLD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WRN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSBC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSBCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSBF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSFS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WSTG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTBA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTFCM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTFCP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTMAR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTMAU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTRG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTRH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTT.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/WTT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WTW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WULF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WVE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WVFC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WVVI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WVVIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWAC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWACU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWACW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WYNN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/WYY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/X.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XAIR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XBIO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XBIOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XBIT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XCUR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XELA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XELAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XELB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XENE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XERS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XFINW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XFLT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XFOR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XHR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XLO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XMTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XNCR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XNET.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOMA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOMAO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOMAP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XOSWW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPAX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPAXW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPDB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPDBU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPDBW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPEL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPER.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPOA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPOF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPON.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XPRO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XRAY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XRTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XRX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XSPA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XTLB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XTNT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XXII.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XYF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/XYL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/Y.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YALA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YCBD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YELL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YELP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YETI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YEXT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YGMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YJ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YMAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YMM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YMTX.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YORW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YOU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YPF.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YQ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YRD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YSG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YTEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YTPG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YTRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YUM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YUMC.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YVR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/YY.py &
+  sleep 6
+  python3 /home/ubuntu/Desktop/admatv3.8/YY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/Z.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZBH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZBRA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZCMD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZD.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZDGE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEAL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZENV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEPP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEST.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZETA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEUS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZEV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZG.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZGN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIMV.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZING.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZINGW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZION.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIONL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIONO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIONP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIP.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZIVOW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZKIN.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZLAB.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZNH.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZNTL.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZOM.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZT.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZTAQW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZTEK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZTO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZTR.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZTS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZUMZ.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZUO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZVIA.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZVO.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZWRK.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZWRKU.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZWRKW.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZWS.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZY.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZYME.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZYNE.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/ZYXI.py &
+  python3 /home/ubuntu/Desktop/admatv3.8/%launcher%
 
-python3 /home/ubuntu/Desktop/chemise2/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AACG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AACI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AACIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AACIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AADI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAIC^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAIC^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAM^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAM^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AATC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AAWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABBV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABR^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABR^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABR^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ABVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACABU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACBAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACEVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACEVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACGLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACGLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACHV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACKIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACKIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACONW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACQRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACQRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACR^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACTDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACTDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ACXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADALW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADERW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADNWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADOCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADOCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADSEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADTHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADVWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ADXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEAE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEAEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEHAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEL^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AENZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEPPZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AERC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AERI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AESC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AESE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEYE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AEZS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFGD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AFYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGBAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGBAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGGRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGGRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGILW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGM^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGMH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGNCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGNCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGNCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGNCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGRIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AGYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHL^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHL^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHL^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHPAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHRNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AHT^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIKI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIMAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AINC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AINV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIRTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AIZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AJG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AJRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AJX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AJXA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKO/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKO/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AKYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AL^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALFIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALIN^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALIN^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALIN^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALJJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALL^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALL^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALL^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALORU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALORW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALP^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALSAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALTUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALXO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ALZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMAOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMCIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMCIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMEH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMH^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMH^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMPY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMSWA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AMZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANDE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANGHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANIK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANZU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANZUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ANZUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOGOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AORT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AOUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APCXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/API.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APMIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APMIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APPF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APPHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTV^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APWC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APXIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APXIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/APYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AQUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARBKL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AREB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AREBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AREC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AREN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARIZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARIZR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARIZU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARIZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARKO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARKOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AROC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARQQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARQQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARQT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARRWU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARRWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARYD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ARYE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASB^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASB^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASCAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASCBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASRV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASTSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ASZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCO^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCO^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCO^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATH^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATH^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATH^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATHE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATLC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATLCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATLCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATNFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATNM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATVCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ATY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUBAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AURA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AURC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AURCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AURCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUUD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUUDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUVIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AUY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVCTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVGOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVHIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVPTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVXL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AVYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AWX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXS^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AYLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AYRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AYTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZUL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/AZZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BABA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^P.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAC^S.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BALL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BALY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAMH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BANC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BANF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BANFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BANR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BANX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BARK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BASE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BATL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BATRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BATRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBIGV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBLGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBUC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BC^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BC^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCSAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCTXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCV^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BCYC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BDXB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BECN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEEMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BELFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BELFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BENE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BENER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BENEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BERY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BEST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BF/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BF/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFRIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFS^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFS^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BFZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGFV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGRYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHFAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHFAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHFAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHFAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHFAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHR^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHSEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHSEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BHVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIGZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BILI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BILL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIO/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIP^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BITE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BITF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BIVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BJDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BJRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKEPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKSY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BKYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLDE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLDEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLEUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLEUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLEUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLKB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLNGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLNGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLNKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLTSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLTSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BLZE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMEZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BML^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BML^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BML^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BML^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNGOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNIXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNIXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNNRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNNRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOCNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BODY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOKF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BORR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOTJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOXD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BOXL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPOPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPYPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPYPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPYPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BPYPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRDG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BREZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BREZR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BREZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRFH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRG^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRG^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRIVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRIVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRK/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRK/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRKH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRKHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRKL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRLIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRLIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BROG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BROGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BROS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRPMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRPMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRQS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BRZE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSGAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSGAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSKY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSKYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSKYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSX^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BSY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTBDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTWNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTWNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BUD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BUI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BURL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BUSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BVXV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BW^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWBBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BWXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BXSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYNOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BYTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BZFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BZFDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BZH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/BZUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/C^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/C^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/C^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CABA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CABO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CACI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CADE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CADE^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CADL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CALA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CALB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CALM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CALT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CALX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CANF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CANG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CANO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CARV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CASA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CASH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CASI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CASS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CASY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CATC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CATO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CATY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBFV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBOE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBRGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBRGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CBZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCAIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCBG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCNEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CCZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDZI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CDZIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEADW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CECE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CELC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CELH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CELU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CELUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CELZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CENX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEQP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEQP^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CERE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CERN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CERS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CERT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CETX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CETXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CEVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFFSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFG^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFG^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFIVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFIVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFVIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CFVIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGABL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CGTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHEAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHEF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHEKZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHKEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHKEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHKEZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHKP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHMI^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHMI^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHNGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHSCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHSCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHSCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHSCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHSCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHUY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHWA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHWAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHWY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIFRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIIGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIM^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIM^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIM^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIM^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CINC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CINF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CING.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CINGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CINT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CION.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CISO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CITE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CITEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CIZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CJJD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CKPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CKX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLAYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLBTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLDT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLINR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLINU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLINW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLNNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLOE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLOER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLVRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLVT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CLXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMCTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRE^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRE^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRE^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRE^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMS^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMS^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNEY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNGLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNGLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNOBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNVY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CNXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODI^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODI^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODI^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CODX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COF^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COHN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COMSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COMSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CONN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CONX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CONXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CONXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COOLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COOLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORR^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CORZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COVAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COVAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/COWNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPARU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPARW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPTAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPTAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPTNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPUH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CPZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CQP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRD/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRD/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRDF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CREC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRECU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRECW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CREG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRESW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRESY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CREX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CREXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRKN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CROX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRTDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRWS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRXTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRZNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CRZNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSIQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSLMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSLMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSSEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSSEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSWC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTA^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTA^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTKB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTXRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CTXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBI^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUBI^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CULL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CULP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CURI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CURO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CURV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CUZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CYXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CZNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CZOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CZR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/CZWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DADA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DALN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DALS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAOOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAOOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DARE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DASH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DATS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DATSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAVEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DAWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBGIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBRG^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBRG^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBRG^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCFCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCGOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCOMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCP^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCP^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCRDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DCUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DECAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DECK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DELL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DENN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DERM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DESP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DFFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DFH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGICA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGICB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHBCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHBCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHCAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHCNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHCNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHHCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHHCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DICE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DILA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DILAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DILAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DINO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DISA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DISAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DISAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DISH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DJCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DKDCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DKDCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DKL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DKNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLCAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLNG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLNG^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLR^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLR^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLR^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DMYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DNZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOGZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DORM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOUG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DOYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPCSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPCSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DPZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRAYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRAYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRCTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRMAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRTSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRUG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DRVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DS^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DS^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DS^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSEY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DSX^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTLA^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTOCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTOCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTRTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTSTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUETU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUETW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUK^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUKB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUNEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUNEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DUOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DVAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DWAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DWACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DWACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DWIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DWSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DX^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DXYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DYAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DYFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DYNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DYNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/DZSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EACPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EACPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EARN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EBTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECC           .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECC^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECF^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECOM          .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ECVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDBLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDTXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDTXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EDUC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EEFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EEIQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFC^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFSCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFTRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGGF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EHTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EICA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EIGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EJFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EJFAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EJFAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EJH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EKSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELMSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELYM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ELYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMBKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMLDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMLDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENCPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENERR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENERU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENERW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENJY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENJYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENLC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENSV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ENZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOSEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EP^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPHYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPHYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPR^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPR^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EPZM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQC^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQH^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQRXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EQX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERESU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERESW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERIE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ERYP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESGRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESGRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESSCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESSCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ESTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ET^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ET^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ET^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETI^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETSY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETWO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETX           .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ETY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EUCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EUCRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EUCRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EURN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVBG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVGOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVGRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVLVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVOJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVOJW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EWBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EWCZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EWTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EXTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EYE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EYEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EYES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EYESW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EYPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EZFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EZGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/EZPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/F^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/F^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FACT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FANG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FANH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FARM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FARO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FATPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBIOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBIZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBRT^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FBRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCNCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCNCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCNCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCUV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEI           .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FELE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FENC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FENG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FERG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEXD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEXDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FEXDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFIE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFIEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FFWM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGBIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGFPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGIWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FGMCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHLTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHN^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FHTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FICO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FICV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FICVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FICVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FINW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FISI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FISV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FITB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FITBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FITBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FITBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FIZZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FKWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLMNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLUX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLWS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FLYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMIVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMIVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNB^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNKO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNLC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNVTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNVTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNWB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FNWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FONR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FORTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOSLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOUNU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOUNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOXA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOXF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FOXWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRBNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRC^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FREE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FREEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FREQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FREY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRGAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRLAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRLAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRMEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FROG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRONU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRONW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRSGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRT^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRWAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FRXB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSRDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSRXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSRXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSSIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSSIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FSV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTAIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTCVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTCVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTIIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTPAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTVIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FTVIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FULC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FULT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FULTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FURY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FUV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FVAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FVCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FVIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FVRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWONA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWONK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FWRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FXCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FXCOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FXCOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FXLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FXNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/FYBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAB^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAB^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAB^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GABC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GACQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GACQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GACQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAINN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAINZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GALT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAM^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAMCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAMCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GANX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GASS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GATE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GATEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GATEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GATO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GATX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBBKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBNH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBRGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBRGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCMGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDDY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDL^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDNRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDNRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDSTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDSTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDV^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDV^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GDYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GECC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GECCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GECCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GECCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEEXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEEXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GENC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GENE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GENI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GENQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GENQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GERN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GEVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFAIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFGDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFGDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGGV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGGVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGMCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGN^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGPIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGPIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGT^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGT^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GGZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHIXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHIXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIIXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIIXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GILD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GILT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIPRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GIWWU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GJO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GJP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GJR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GJS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GJT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GKOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GL^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLBZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLDG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLEEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLEEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLHAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLHAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLLIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOP^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLOP^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLP^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLSPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLSPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLSPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLU^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLU^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GLYC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMBLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMBLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMBLZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMFIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMRE^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GMVD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNE^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNL^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOEVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOODN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOODO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOOGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GORO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GOVXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPCOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPCOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPJA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPMT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRABW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRBK^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRCYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GREE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GREEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRNAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRNQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GROM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GROMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GROY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRVY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRWG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GS^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSEVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSEVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSMGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSQB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSQD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSRMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSRMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GSV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTPBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTXAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GTYH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GUG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GURE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GUT^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GVCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GVCIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GVCIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GVP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GXII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GXIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GXO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/GYRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAIAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HALL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HALO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HARP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HASI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HAYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBANM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBANP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCARW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCDIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCDIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCDIZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCICU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCMAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCNEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCNEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCVIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCVIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCWB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HCXY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HDSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEI/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HELE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HERA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HERAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HERAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HESM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HEXO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HFBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HFFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HFRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HFRO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HFWA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HGBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HGLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HGTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HGV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HHGCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HHGCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HHLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIG^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIHO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIIIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HILS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HITI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLAHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLBZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLBZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMCOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMCOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMLP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNNAZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOFV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOFVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HONE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HORI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOVNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HOWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPKEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPLTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPLTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPP^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HQH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HQI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HQL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HQY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HROWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HRZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HSY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HT^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HT^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HT^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTIBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTLFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTOOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HTZWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUBG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUIZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUMAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HURC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HURN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HUYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HVBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HVT/A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWCPZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWELW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWKN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWKZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HWM^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HXL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYMCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYMCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYMCZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HYZNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HZNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HZO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/HZON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IART.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IAUX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICR^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICUI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ICVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IDYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IEAWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IESC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGNYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IGTAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IHTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/III.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IINN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IINNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIPR^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IIVIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IKNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ILMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ILPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMBIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMKTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMNM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMPPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMRNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMTXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMUX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IMXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INBKZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ING.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INKAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INKAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INN^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INN^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INNV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INSW^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INUV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INVZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/INZY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IONM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IONQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IONS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IOVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPAXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPVF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPVIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IPWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQMDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQMDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IQV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IREN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IROQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IRWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISLEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISPOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ISUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITHXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITQRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITQRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITUB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ITW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVCPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IVZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IXAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IXHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/IZEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JACK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAKK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JANX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAQCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAQCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JATT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JAZZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCICU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JCTCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JEF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JELD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JEMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JEQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JGGCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JGGCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JHAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JILL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JJSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JKHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JMACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JMACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JMIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JMSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JNCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JNJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JNPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOFF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOFFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOFFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JOUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPM^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JRSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JRVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JSPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JSPRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JUGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JUGGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JUPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JUPWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JWEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JWSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JYNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/JZXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KACLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KACLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAIIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAIRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAIRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KALA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KALU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KALV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KARO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KAVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KBAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KBNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KBNTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KCGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KDNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KELYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KELYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KERN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KERNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEY^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEY^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEY^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KEYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KFFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KFRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIIIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIM^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIM^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KINS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KINZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KINZU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KINZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KIRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KKR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KKRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KLXE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KODK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KORE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KOSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KPLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KPLTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KPRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KPTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KREF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KREF^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRNLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRNLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KROS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KRYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSICU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KTTAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KUKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KULR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KURA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KVHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KVSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KVSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KWAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KXIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KYCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KYCHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KYCHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KYMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KZIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/KZR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LABP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LADR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LANC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LANDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LANDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LARK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LASR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LATGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAXXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAXXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAXXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAZR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LAZY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBBBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBBBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBPSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBRDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBRDK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBRDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBTYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBTYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LBTYK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCAPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCFYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDHAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDHAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LECO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEGAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEGAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEJU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LESL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LEXXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFLYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFMDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFTRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFTRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LFVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGHLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGSTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGSTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGTOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGTOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGVCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGVCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LGVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LHAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LHCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LHDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIBYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LICY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIDRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LILA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LILAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LILM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LILMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LINC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LINK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIONU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIONW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIQT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LITTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIVBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIVBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIXTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LIZI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LJAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LJAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LJAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LJPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LKCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LKFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LKQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LLAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LLNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMAOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMAOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMDXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LODE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOKM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOTZW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LQDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LQDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LRCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LRFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LRMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSEAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSPRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSXMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LSXMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTCHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LTRYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LULU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUXA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUXAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LUXAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVOXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVRAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVRAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LVTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LWAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LWLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXEH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXP^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LYV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/LZB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAA^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MACAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MACAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MACK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MANH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MANT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MANU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAPSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAQCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAQCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MARA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MARK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MARPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MASI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MASS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MATW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MATX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MAYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBINN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBINO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBINP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBNKP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBTCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MBWM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCHP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDGSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDJH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDLZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDRRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDV^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDXG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MDXH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MELI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MEOH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MER^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MERC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MESA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MESO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MET^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MET^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MET^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/METC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/METCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/METX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/METXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFA^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFA^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MFV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MGYR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MH^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MH^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MHUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MICT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MILE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MILEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MINDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MINM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITT^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MITT^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MIY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKTWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MKTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLAIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLKN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MLVF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MMYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNDY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNKD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNSBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MNTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOBQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOBQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MODD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MODN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MODV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOHO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MONCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MONCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MORF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MORN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MOXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPACR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPRAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MQT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MQY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MREO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MRVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MS^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSDAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MSVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTB^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTBCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTEKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTRYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTRYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUDSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MULN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MURF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MURFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MUX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVSTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MWA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MXCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MXE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MXF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MXL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYNZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYPSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYSZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/MYTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NABL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NARI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NATH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NATI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NATR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NAZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBRV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBSTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBSTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBXG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCLH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCV^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NCZ^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NDSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NECB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEE^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEE^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEE^P.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEE^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NERV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NESR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NETC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NETI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEWP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEWTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEWTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEXA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NEXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NFYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGL^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NGVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NHWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NI^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NICE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NICK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NILE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NINE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NISN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NJR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NKX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLITU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLITW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLSPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLY^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLY^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NLY^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NM^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NM^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMK^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMMCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNAVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NODK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOVVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPABW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NPV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NQP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRDY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NREF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NREF^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRGV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRSNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRUC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRXPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRZ^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRZ^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRZ^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NRZ^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NS^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NS^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NS^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSA^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NSYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTRBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTRSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUBIU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NURO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUWE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NUZE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVACR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVSAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVVEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NWSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXDT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXGLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NXTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYCB^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYCB^U.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NYXH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/NZF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OACB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OAK^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OAK^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBSV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCAXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCCIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCCIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCFCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCUL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ODC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ODFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ODP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OEPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OEPWU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OEPWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OESX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHAAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHPAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OHPAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OIIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OKTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OKYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLITU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLITW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OLPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OMQS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONBPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONBPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONYXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ONYXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OOMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPINL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPP^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OPY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORGNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORIAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORRF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ORTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSTRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSTRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTECU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTECW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTMOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTRKP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OTTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OUST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OUT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OVBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OVID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OVLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OWLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXBRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXLCZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXSQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXSQG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXSQL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXSQZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXUSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXUSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OXY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OYST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OZK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/OZKAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PACXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAFOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PALI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PALT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PANA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PANL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PANW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAQCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAQCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PARA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PARAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PARAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PARR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PASG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PATH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PATI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PATK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAVMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PAYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBAXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBI^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PBYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCCTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCCTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCG^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCTTU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCTTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCVX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCXCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCXCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCYG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PCYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PDT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEARW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEB^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEB^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEB^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEB^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEBO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PECO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEGRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEGRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEI^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEI^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEI^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PENN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEPLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PEPLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PERI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PESI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PETQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PETS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PETV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PETVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PETZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFDRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFDRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFIE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFTAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFTAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFXNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PFXNZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGRWU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGRWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PGZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHICU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHUNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PHYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PICC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PINC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PINE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PING.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PINS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PIXY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PJT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKOH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PKX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLMIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLUG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLYM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PLYM^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMGMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMT^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMT^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMVP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNC^P.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNFPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PODD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PONO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PONOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PORT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/POWWP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPHPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPHPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPHPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PPYAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRDO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRE^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRENW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIF^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRLH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PROC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PROCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PROF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PROV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRSRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRSRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PRVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^P.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^R.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSA^S.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSAGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSAGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSB^X.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSB^Y.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSB^Z.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSEC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PSX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTICU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTICW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTMN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTOCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUBM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUCKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUCKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PULM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PUYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PVBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PW^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWPPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWUPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PWUPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PXD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PXLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PXSAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PXSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PYXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PZC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PZG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/PZZA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QCOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QCRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QDEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QFIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QFTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QIPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QLGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QLYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QMCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QNGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QNRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QNST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QQQX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QRHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QRTEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QRTEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QRTEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QRVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QSIAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTEKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QTWO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QUAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QUBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QUIK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QUMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QUOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QURE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QVCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/QVCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/R.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RACB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RACE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RACY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RACYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RACYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RADA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RADI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAMMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAMMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RANI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RARE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RAVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBCAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBKB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RBOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RC^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RC^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCHGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCHGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCKY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCLFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCLFW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCRTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RCUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDBXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RDY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REEAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RELI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RELIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RELL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RELX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RELY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RENEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RENN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RENO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RENT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RERE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RETA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RETO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REVHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REXR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REXR^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REXR^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/REZI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RF^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RF^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RF^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFACR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RGTIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RHE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RHE^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RHP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RICK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RICO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RICOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIDE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RILYZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIV^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RIVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RJAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RJF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RKDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RKLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RKLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RKTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLJ^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RLYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMBL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMGCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMGCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMPL^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RMTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNAZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNERW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNR^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNR^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNWWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RNXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROCLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROIVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROLLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RONI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROSEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ROVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPHM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPT^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RPTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RQI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RRBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RRGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSKD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RSVRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RTLPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RTLPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RTLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RUBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RUSHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RUSHB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RUTH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVPHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVSNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RWAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RWLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RWOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RWODU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXRAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXRAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RY^T.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYAAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RYTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RZA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RZB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/RZLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/S.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SABR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SABRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SABS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SABSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SACH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SACH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAITW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SALM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAMAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SANA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SANBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAND          .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SANG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SANM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SANW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SASI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SASR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SATL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SATLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SATS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SAVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SB^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SB^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBFMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBNYP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SBUX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCE^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCE^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCE^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCE^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCE^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCHN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCHW^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCHW^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCLE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCLEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCLEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCMAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCRMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCRMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCWX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SCYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDHY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SDPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEAL^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEAL^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEATW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SECO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEDG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SELB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SELF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SENEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SENEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SENS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SERA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SESN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SEVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SF^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SF^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SF^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGHL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGHLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGHLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGML.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHCRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHO^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHO^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHQA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHQAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHQAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHUA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHUAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHUAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SHYF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SI^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIERU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIERW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIFY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIGIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SILC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SILK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SILV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SINT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIOX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SISI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SITC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SITC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SITE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SITM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIVB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIVBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJIJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SJW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKLZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SKYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLAMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLAMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLCRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLCRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLDPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLG^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLGC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLGCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLHGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLMBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLNH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLNHP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLQT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SLVRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMAPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMAPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMED.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMFR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMFRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMID.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMIH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMIHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMIHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMMF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SMWB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNCRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNDL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNFCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNRHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNRHW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNV^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNV^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SNY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOFO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOHO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOHOB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOHON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOHOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOHU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOJC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOJD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOJE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOLOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SONY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOUNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SOVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPCMU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPCMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPE^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPG^J.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPKB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPKBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPKBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPLP^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPNT^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPTKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPWH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SPXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQFT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQFTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQFTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQLLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SQZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SR^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRAD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SREA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SREV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRG^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRLP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRSAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRZN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SRZNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSKN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSSSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SSYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAR          .py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAR^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAR^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STAR^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STEP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STKL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STNG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STOK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STSSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STT^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STT^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STTK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STXS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/STZ/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUPV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SURF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SURG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SURGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SUZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVNAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SVVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWAG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWAGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWAGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWCH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWETU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWETW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWKH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWSS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWSSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWSSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWVL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWVLW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SWZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SXC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SXTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYF^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYNH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYTAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SYY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SZC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SZZL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/SZZLU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/T.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/T^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/T^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TACA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TACT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TALK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TALKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TALO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TALS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TANH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TANNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TANNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TANNZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAOP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TARA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TARO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TARS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TASK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TATT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TAYD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBCPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBCPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBKCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBLTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TBSAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCRR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDCX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDS^U.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDS^V.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TDY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEAF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TECH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TECK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TECTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEKK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEKKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TELA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TELL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TELZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TENB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TENX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TERN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TESS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETCU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETEU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TETEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEVA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFC^I.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFC^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFC^R.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFFP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFSL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TFX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGAAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGH^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGH^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TGVCW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCPU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THCPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THFF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/THWWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TILE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TINV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIOAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIOAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TISI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TITN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TIXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TJX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TKAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TKC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TKLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TKNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLGYU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLGYW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLRY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TLYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMCI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMCWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMDX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMKR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMKRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TMX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNDM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNGX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNP^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNP^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNP^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNXP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TNYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOIIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TOWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPBAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPGY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPVG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TPZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TREC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TREE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TREX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRKAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRMR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRONU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRONW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TROO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TROW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TROX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTN^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRTX^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRUE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRVG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRVN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSBK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSCAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSCBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSHA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSIB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSIBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSIBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSLX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSPQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TSVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTGT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TTWO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TUEM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TUFN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TUP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TURN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TUSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TUYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TVC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TVTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TVTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWCBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWKS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWLV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWLVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWLVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWND.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWNI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWO^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWO^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWO^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TWTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TXG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TXMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TXN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TXRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TY^.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TYDEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TYG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TYL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TYME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TYRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TZOO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TZPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TZPSU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/TZPSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/U.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UAMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UAVS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBFO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBOH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBP^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBP^K.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UCBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UCBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UCL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UCTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UDMY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UEIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UEPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UFAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UFCS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UFPI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UFPT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UGIC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UGP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UGRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UHAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UHT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UIHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UIS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UKOMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ULBI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ULCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ULH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ULTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMH^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMH^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UMPQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNAM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNCY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNFI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNTY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UNVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UONE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UONEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPTD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPTDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPTDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UPWK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/URBN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/URG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/URGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/URI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UROY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USAK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USAS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^P.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^R.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USB^S.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USCT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USCTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USEG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USPH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USWS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USWSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/USX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTAA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTAAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTAAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UTZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UUUU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UVSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UWMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UXIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UZD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UZE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/UZF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/V.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VABK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VACC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VALE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VALN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VALU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VAPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VAQC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VATE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VAXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBNK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VBTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCIF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCKA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCKAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCNX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCSA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCXA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCXAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCXAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCXB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VCYT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VECO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VECT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEEE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VELO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VELOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VENA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VENAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VENAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VENAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VERY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VFF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VFL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VGZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VHAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VHC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VHI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VHNAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIASP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VICI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VICR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIEWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIGL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIIAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VINC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VINE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VINO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VINP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIOT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIPS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIRC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIRI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VISL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VITL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIVK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VIVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VJET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VKI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VKQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VKTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLATW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLDR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLDRW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLGEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLYPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VLYPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMCAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMCAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMEO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMGAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMGAW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VMW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNCE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNDA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNO^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNO^M.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNO^N.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNO^O.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VNTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VORB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VORBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOXX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOYA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VOYA^B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VPCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VPV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VQS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VREX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRMEW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRNA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRPX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRRM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRSK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRSN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRTV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSCO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSTA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VSTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTAQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTAQR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTIQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTIQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTIQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTOL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTRS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTRU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTSI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTVT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VTYX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VUZI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVPR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VVV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VWE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VWEWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VWTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VXRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VYGG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VYGR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VYNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VYNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VZIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/VZLA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/W.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WABC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAFD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAFDP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAFU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAL^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WALD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WALDU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WALDW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WARR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WASH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WATT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAVD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WAVSW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBS^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBS^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WBX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WCC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WCC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WCN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WDAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WDC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WDFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WDH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WDI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEAV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEBR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEJO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEJOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WELL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WERN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WES.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WETF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WEYS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^C.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^D.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^L.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^Q.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^R.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^Y.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFC^Z.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFCF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WFRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WGO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHLM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHLR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHLRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHLRL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHLRP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WILC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIMI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WINA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WING.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WINT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WINVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WINVU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WINVW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WISA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WISH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WIX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WKEY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WKHS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WKME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WKSP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WKSPW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLDN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLKP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WLYB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMPN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WMT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WNC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WNEB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WNNR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WNS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WNW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WOLF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WOOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WORX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPCA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPCB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WPRT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRB^E.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRB^F.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRB^G.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRB^H.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRBY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRLD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WRN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSBC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSBCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSBF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSFS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSO/B.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WSTG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTBA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTFCM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTFCP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTMAR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTMAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTRG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTRH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WTW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WULF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WVE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WVFC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WVVI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WVVIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWAC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWACU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWACW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WYNN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/WYY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/X.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XAIR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XBIO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XBIOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XBIT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XCUR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XELA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XELAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XELB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XENE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XERS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XFINW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XFLT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XFLT^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XFOR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XHR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XLO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XMTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XNCR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XNET.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOMA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOMAO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOMAP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XOSWW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPAX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPAXU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPAXW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPDB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPDBU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPDBW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPEL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPER.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPOA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPOF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPON.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XPRO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XRAY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XRTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XRX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XSPA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XTLB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XTNT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XXII.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XYF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/XYL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/Y.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YALA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YCBD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YCBD^A.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YELL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YELP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YETI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YEXT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YGMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YJ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YMAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YMM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YMTX.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YORW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YOTAU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YOU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YPF.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YQ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YRD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YSG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YTEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YTPG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YTRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YUM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YUMC.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YVR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/YY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/Z.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZBH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZBRA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZCMD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZD.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZDGE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEAL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZENV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEPP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEST.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZETA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEUS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZEV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZG.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZGN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIMV.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZING.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZINGU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZINGW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZION.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIONL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIONO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIONP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIP.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZIVOW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZKIN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZLAB.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZNGA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZNH.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZNTL.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZOM.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZSAN.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZT.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTAQU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTAQW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTEK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTR.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZTS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZUMZ.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZUO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZVIA.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZVO.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZWRK.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZWRKU.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZWRKW.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZWS.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZY.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZYME.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZYNE.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/ZYXI.py &
-sleep 1
-python3 /home/ubuntu/Desktop/chemise2/%launcher%
-
-
+done
